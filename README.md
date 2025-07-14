@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rkvishwakarma2050
 - 👀 I’m interested in programming/coding.
 - 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on react, react-native, android, ios, flutter, swift, java, java, nextjs, js, nodejs
+- 💞️ I’m looking to collaborate on react, nextjs.
 - 📫 How to reach me ...
 
 <!---
